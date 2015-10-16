@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://kedar89.github.io
+title: techdwam
+tagline: Knowledge Never fades ..
+description: Humble attempt to learn and share 
+paginate: 5
